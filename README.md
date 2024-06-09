@@ -41,6 +41,19 @@ This is a basic calculator implemented using HTML, CSS, and JavaScript. It can p
 2. Use the calculator interface to perform calculations.
 3. View your calculation history on the right side of the calculator.
 
+
+### Keyboard Shortcuts
+
+- **C**: Clear the display
+- **/**: Division
+- **\***: Multiplication
+- **-**: Subtraction
+- **+**: Addition
+- **Backspace**: Delete the last character
+- **S**: Square the current number
+- **Enter**: Calculate the result
+- **0-9, .**: Input numbers and decimal point
+
 ### File Structure
 
 - `index.html`: The main HTML file that contains the structure of the calculator.
