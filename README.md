@@ -1,5 +1,5 @@
 # Basic Calculator
-
+[LIVE PREVIEW](https://jmc123official.github.io/basic-calculator/)
 ## Description
 This is a basic calculator implemented using HTML, CSS, and JavaScript. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
